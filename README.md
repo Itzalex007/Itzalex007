@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Itzalex007
+- 👋 Hi, I’m @minhaj_ahmed
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning css
-- 📫 How to reach me by instagram > itz_alex007
+- 🌱 I’m currently learning js
+
 
 <!---
 Itzalex007/Itzalex007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
