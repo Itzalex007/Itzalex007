@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @minhaj_ahmed
-- 👀 I’m interested in web development
+- i am a mern stack developer
+  
 
 
 <!---
